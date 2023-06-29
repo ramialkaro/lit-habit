@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import 'package:lithabit/screens/screens_wrapper.dart';
 import 'package:lithabit/themes/app_theme.dart';
 
 class MyApp extends StatefulWidget {
@@ -33,7 +34,7 @@ class _MyAppState extends State<MyApp> {
       title: 'Lit Habit',
       theme: customTheme,
       home: Scaffold(
-        body: _isLoading ? _buildLoadingScreen() : const Text("Welcome"),
+        body: _isLoading ? _buildLoadingScreen() : const ScreensWrapper(),
       ),
     );
   }
