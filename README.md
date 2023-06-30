@@ -37,6 +37,3 @@ We value your feedback and suggestions to enhance the Lit Habit Ebook. If you en
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Please replace `YOUR_VIDEO_ID_HERE` with the actual YouTube video ID and ensure that you have the relevant screenshot files in the `screenshots` directory.
