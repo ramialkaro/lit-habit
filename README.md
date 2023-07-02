@@ -2,7 +2,7 @@
 
 Lit Habit is a mobile app that allows users to access and read a wide collection of ebooks on their smartphones or tablets. The app provides a user-friendly interface and a range of features to enhance the reading experience. Users can discover new books, manage their library, customize reading preferences, and more.
 
-[![Watch the video](https://youtu.be/9CR5oJbpEtQ)](https://youtu.be/9CR5oJbpEtQ)
+Youtube Video Link: [https://youtu.be/3bvUSIxfBsk](https://youtu.be/3bvUSIxfBsk)
 
 ## Features
 
