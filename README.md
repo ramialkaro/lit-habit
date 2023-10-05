@@ -1,3 +1,7 @@
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rami.alkaro)
+
+
 # Lit Habit Ebook Library Mobile App
 
 Lit Habit is a mobile app that allows users to access and read a wide collection of ebooks on their smartphones or tablets. The app provides a user-friendly interface and a range of features to enhance the reading experience. Users can discover new books, manage their library, customize reading preferences, and more.
